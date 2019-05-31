@@ -2,6 +2,10 @@
 
 See https://www.terraform.io/docs/providers/aws/guides/eks-getting-started.html for full guide
 
+## Install and configure aws cli
+```
+aws configure
+```
 
 ## Download kubectl
 ```
